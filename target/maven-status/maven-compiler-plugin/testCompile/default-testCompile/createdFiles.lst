@@ -1,0 +1,9 @@
+org\cano\junitapp\ejemplo\models\CuentaTest$EjemploTimeoutTest.class
+org\cano\junitapp\ejemplo\models\CuentaTest.class
+org\cano\junitapp\ejemplo\models\CuentaTest$VariableAmbienteTest.class
+org\cano\junitapp\ejemplo\models\CuentaTest$JavaVersion.class
+org\cano\junitapp\ejemplo\models\CuentaTest$SistemasOperativos.class
+org\cano\junitapp\ejemplo\models\CuentaTest$CuentaTestNombreSaldo.class
+org\cano\junitapp\ejemplo\models\CuentaTest$ParametrizedTest.class
+org\cano\junitapp\ejemplo\models\CuentaTest$SystemPropertiesTests.class
+org\cano\junitapp\ejemplo\models\CuentaTest$CuentaOperacionesTest.class
